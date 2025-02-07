@@ -5,3 +5,6 @@
 3. attendance
 4. Syllabus
 5. Slides
+6. Share first assignments
+    - Codespaces setup
+    - Hello, World (Python 1 only)
