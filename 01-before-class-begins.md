@@ -10,11 +10,16 @@
     - Invite students (and make them Students).
     - Create a module for each section
         - In each module should have the following Text Headers:
-            - Unit overview
-            - "Resources"
-            - "Class Recordings"
-            - "Class Exercises"
-            - "Homework"
+            - Unit overview, we can get this text from the "Overview.md" file
+              in each unit in the class repo. Usually the first one or two
+              paragraphs in the file are what we want to use here.
+            - "Resources", this is where we include links to slides and any
+              other resources we share.
+            - "Class Recordings", this is where we include links to recorded
+              classes.
+            - "Class Exercises", this is where in-class exercise assignments
+              go.
+            - "Homework", this is where homework assignments go.
 3. Send welcome email
     - Include Slack channel link
     - Include Canvas course link
